@@ -1,0 +1,25 @@
+.arti_search{
+	margin: 10px 0 20px 0;
+	padding: 5px 5px 10px 5px;
+	border:2px solid #000000;
+	border-radius: 10px;
+	overflow: hidden;
+}
+.tovar{
+	margin: 5px 0;
+}
+.kind_tovar{
+	display: none;
+	margin: 5px 0;
+}
+.param_tovar{
+	display: none;
+	margin: 5px 0;
+}
+.param_tovar p{
+	margin: 15px 0 10px 0;
+	font-weight: bold;
+}
+.render_table, .not_found, .param_tovar p{
+	display: none;
+}
